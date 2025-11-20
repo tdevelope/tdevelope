@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Tamar 👋
 
-<!--
-**tdevelope/tdevelope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a focus on smart web systems, AI integrations, and data-oriented problem solving.  
+I enjoy building clear, reliable, and well-structured applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+**Languages:** Python • TypeScript • JavaScript • C#  
+**Frontend:** React • Angular • HTML • CSS  
+**Backend:** NestJS • Node.js • FastMCP • REST APIs • Prisma  
+**AI:** RAG • AI Agents • Embeddings  
+**Databases:** PostgreSQL • Redis  
+**Tools:** Docker • Git • GitHub  
+
+---
+
+## 📌 Projects
+
+### **Business Management System**
+A platform for small-business management with smart appointment scheduling and workflow tools.  
+**Tech:** React, NestJS, TypeScript, PostgreSQL
+
+---
+
+### **Metal Price Tracker**
+A real-time dashboard showing metal prices, history, charts, and filtering.  
+**Tech:** .NET, Angular
+
+---
+
+### **AI MCP Practical Work**
+Part of an advanced AI testing environment (Quinn project).  
+Worked on logic, workflows, and integrations with modern AI protocols.  
+*(Private repository — contributions visible on profile)*
