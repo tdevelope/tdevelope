@@ -30,7 +30,6 @@ A real-time dashboard showing metal prices, history, charts, and filtering.
 
 ---
 
-### **AI MCP Practical Work**
-Part of an advanced AI testing environment (Quinn project).  
-Worked on logic, workflows, and integrations with modern AI protocols.  
+### **AI Testing Environment**
+Worked on logic design, workflow behaviors, and integrations with advanced AI protocols.  
 *(Private repository — contributions visible on profile)*
