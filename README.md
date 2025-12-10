@@ -1,95 +1,85 @@
 # Hi, I'm Tamar 👋  
-**Software Developer | Web Systems | AI Integrations | Data-Driven Solutions**
+**Software Developer | Web Systems | LLM Engineering | Data-Driven Development**
 
-I build clean, reliable, and well-structured applications with a strong focus on smart automation, scalable architecture, and practical AI adoption.
+Building clean, scalable and intelligent applications with a focus on automation, AI workflows and robust system architecture.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-68217A?logo=csharp&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</p>
 
 ### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
 
 ### **Backend**
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![FastMCP](https://img.shields.io/badge/-FastMCP-000000?logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/-REST_APIs-005571)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45"/>
+</p>
 
-### **AI / ML**
-![RAG](https://img.shields.io/badge/-RAG_Frameworks-0A0A0A)
-![AI Agents](https://img.shields.io/badge/-AI_Agents-20232A)
-![Embeddings](https://img.shields.io/badge/-Embeddings-444444)
+### **AI / ML / NLP**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+</p>
 
 ### **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
+</p>
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+### **Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### **Business Management System**  
-A full ecosystem for small-business operations including:  
-• Smart appointment scheduling  
-• Automated workflows  
-• Role-based dashboards  
-• Operational insights and staff tools  
+### **AI Planner Guard**  
+A controlled environment for orchestrating, validating, and supervising multi-agent AI workflows.  
+Ensures safe tool execution, monitors reasoning steps, and prevents invalid or unsafe action plans.  
+Designed for research, evaluation and debugging of structured AI reasoning pipelines.
 
-**Tech:** React, NestJS, TypeScript, PostgreSQL  
-**Focus:** High-performance scheduling algorithms and clean UX.
+---
+
+### **Business Management System**  
+A full platform for small businesses featuring smart appointment scheduling, workflow automation, staff tools and real-time dashboards.  
+Includes admin interfaces, availability logic, time-slot optimization, and a clean operational UI.  
+Built to support growing teams with reliable and intuitive daily management tools.
 
 ---
 
 ### **Metal Price Tracker**  
-A real-time dashboard for monitoring global metal prices with:  
-• Live updates  
-• Historical charts  
-• Custom filtering & alerts  
-• Responsive UI  
-
-**Tech:** .NET, Angular  
-**Focus:** Real-time streaming, data visualization, and intuitive filtering.
+A live dashboard for tracking global metal prices with historical charts, filtering controls and real-time updates.  
+Provides a smooth user experience with streaming data and responsive visualizations.  
+Built for decision-makers who need fast access to market trends.
 
 ---
 
-### **AI Planner Guard**  
-A secure orchestration environment designed for evaluating and controlling advanced AI reasoning flows.  
-This system provides a controlled sandbox that monitors, validates, and guides AI-driven action plans.
+## 📈 Current Focus  
+Improving AI-assisted development workflows, enhancing automation pipelines, and exploring micro-services for scalable systems.
 
-**Key Capabilities:**  
-• Multi-agent supervision and planning validation  
-• Interception and correction of unsafe or illogical AI actions  
-• Structured reasoning workflows with guardrails  
-• Protocol-level AI integrations and tool-execution monitoring  
-• Deep visibility into agent decisions, state transitions, and outcomes  
-
-**Purpose:**  
-To ensure that complex AI agents maintain reliability, safety, and determinism while interacting with real-world tools or multi-step decision paths.
-
-*(Private repository — activity visible on GitHub profile)*
-
----
-
-## 📈 What I’m Working On
-Advancing AI-assisted development workflows, exploring micro-services architecture, and building smarter operational tools for production systems.
-
----
-
-## 📫 Contact  
-Feel free to reach out via GitHub issues, discussions, or the email listed on my profile.
