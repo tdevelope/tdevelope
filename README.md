@@ -28,17 +28,13 @@ Building scalable systems, AI-powered tools, and reliable, well-structured appli
 
 ### **Backend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="45"/>  
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nestjs/nestjs-original-wordmark.svg" width="45"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
 </p>
 
-### **AI / LLM / NLP**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-</p>
+### **AI**
 
 **RAG · NLP · Embeddings · Vector Search · AI Agents · FastMCP Tooling**
 
@@ -54,6 +50,7 @@ Building scalable systems, AI-powered tools, and reliable, well-structured appli
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
 </p>
 
