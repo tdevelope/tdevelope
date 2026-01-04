@@ -79,6 +79,14 @@ Uses structured data flows for smooth and accurate market monitoring.
 
 ---
 
+### **Red Wine Quality Prediction**
+
+A machine learning project predicting red wine quality from chemical properties.
+Includes data exploration, preprocessing, feature engineering, and training of Linear Regression and Random Forest models.
+Provides visualizations, feature importance insights, and stable performance evaluation for practical interpretability.
+
+---
+
 ## 📈 Current Focus  
 Enhancing AI-integrated systems, improving full-stack architecture scalability, and refining workflow automation tools.
 
